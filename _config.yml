@@ -11,7 +11,7 @@ color: limegreen
 
 permalink: /items/:title
 search_engine: https://www.google.com/search
-paginate: 5 
+paginate: 5
 paginate_path: "/page/:num"
 jekyll-mentions: https://twitter.com
 feed:
