@@ -2,12 +2,11 @@ title: Poem
 subtitle: ポエムはじめました
 repo: https://github.com/mzyy94/poem/raw/master/_posts/
 author: mzyy94
-github:
-  username: mzyy94
 twitter:
   username: mzyy94
 disqus: mzyy94blog
 color: limegreen
+branch: master
 
 permalink: /items/:title
 search_engine: https://www.google.com/search
