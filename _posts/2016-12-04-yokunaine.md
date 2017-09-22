@@ -21,7 +21,7 @@ Googleで「あれどうやるんだっけ」と調べるとトップにQiitaが
 
 もうだめだよね。「👍いいね」なんて。どうせなら「🍣すし」にしてほしかったくらいだよ。
 
-[Twitterの仕様変更を受け入れられなくなったので:heart:を:sushi:に変えて精神を落ち着かせる - Qiita](http://qiita.com/mzyy94/items/54d7c55eb01af37954fe)
+[Twitterの仕様変更を受け入れられなくなったので:heart:を:sushi:に変えて精神を落ち着かせる - Poem](https://poem.mzyy94.com/items/like2sushi)
 
 <blockquote class="twitter-tweet" data-lang="ja"><p lang="ja" dir="ltr">Qiitaの「👍いいね」がイラっとするので内容の無いポストに対して「👎よくないね」を付けるウェブサービスとChrome拡張を作りたい</p>&mdash; はいふり@3日目東v-14a (@mzyy94) <a href="https://twitter.com/mzyy94/status/801694537219444736">2016年11月24日</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
