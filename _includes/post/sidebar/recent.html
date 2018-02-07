@@ -1,8 +1,0 @@
-<div class="py-3">
-<h5>Recent post</h5>
-<ul>
-{% for post in site.posts | limit: 5 %}
-<li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
-{% endfor %}
-</ul>
-</div>
